@@ -28,7 +28,7 @@ print(val[1])
 print(val)
 
 # Dictionary
-dic = {"a": 2, 4:"bcd", "c": "Hello world"}
+dic = {"a": 2, 4:"bcd", "c": "Helelo world"}
 
 print(dic[4])
 print(dic["c"])
@@ -36,7 +36,7 @@ print(dic["c"])
 #
 dict = {}
 
-dict["firstname"] = "Rahul"
+dict["firstname"] = "Raehul"
 
 dict["lastname"] = "shetty"
 

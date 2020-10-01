@@ -11,7 +11,7 @@ b, c, d = 5, 6.4, "Great KIng of the Osaris"
 
 #print("Value is"+b+"fdfd")
 
-print("{} {}".format("Value is", b))
+print("{} {}".format("Value is of the", b))
 
 print(type(b))
 
